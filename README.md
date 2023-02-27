@@ -4,7 +4,9 @@
 
 > Confira os métodos clicando nas pastas
 
-> 👾 • APKS Premium
+> 👾 • APKs Premium
+>
+> 👺 • APKs Hackers
 
 > Caso tenha se interessado por algum conteúdo, é só clicar na PASTA que está vinculado com seu respectivo interesse.
 
