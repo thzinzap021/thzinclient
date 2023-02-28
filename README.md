@@ -9,6 +9,8 @@
 > 👺 • APKs Hackers
 >
 > 🔥 • Tinder
+>
+> 💻 • Office 2016
 
 > Caso tenha se interessado por algum conteúdo, é só clicar na PASTA que está vinculado com seu respectivo interesse.
 
