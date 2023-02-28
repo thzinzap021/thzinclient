@@ -13,6 +13,8 @@
 > 💻 • Office 2016
 >
 > ♻️ • Google Drive Cursos
+>
+> Ⓜ️ • MEGA Cursos
 
 > Caso tenha se interessado por algum conteúdo, é só clicar na PASTA que está vinculado com seu respectivo interesse.
 
