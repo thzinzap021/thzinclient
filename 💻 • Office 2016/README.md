@@ -8,11 +8,11 @@
 >
 > 4️⃣ Método vitalício;
 >
-> 5️⃣ Necessário fazer login com sua conta Microsoft;
+> 5️⃣ Precisa estar logado com sua conta Microsoft;
 >
-> 6️⃣ Não é necessário baixar nenhum recurso para funcionar pois você usará apenas o Bloco de Notas.
+> 6️⃣ Não é necessário baixar nenhum outro programa para funcionar pois você usará apenas o Bloco de Notas que já existe no seu Windows.
 
-> Abra seu Bloco de Notas no computador e cole o código que está no documento abaixo. Em seguida, dê CTRL + S para salvar seu novo arquivo com o nome "office.cmd". Feito isso, clique duas vezes no arquivo .cmd que você criou e espere carregar. Pronto! Aguarde o processo concluir e aperte "Y" quando se o Windows pedir permissão. Caso apareça alguma mensagem de erro, desconsidere pois o método já funcionou. Agora que a licença já está ativada, pode abrir seus programas sem se preocupar mais com licença e data de expiração do uso gratuito por tempo limitado. Bons trabalhos!
+> Abra seu Bloco de Notas no computador e cole o código que está no documento abaixo. Em seguida, dê CTRL + S para salvar seu novo arquivo com o nome "office.cmd". Feito isso, clique duas vezes no arquivo .cmd que você criou e espere carregar. Pronto! Aguarde o processo concluir e aperte "Y" se o Windows pedir permissão. Caso apareça alguma mensagem de erro, desconsidere pois o método já funcionou. Agora que a licença já está ativada, pode abrir seus programas sem se preocupar mais com licença e data de expiração do uso gratuito por tempo limitado. Bons trabalhos!
 
 > https://www.mediafire.com/file/39sfwikol5643x7/%25F0%259F%2592%25BB_Office_2016_Script_By_TH_%25F0%259F%2592%25BB.txt/file
 
