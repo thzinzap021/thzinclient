@@ -1,4 +1,4 @@
-> ♻️ • CURSOS GRATUITOS DISPONÍVEIS NO GOOGLE DRIVE
+> ♻️ CURSOS GRATUITOS DISPONÍVEIS NO GOOGLE DRIVE
 
 > Repositório de cursos gratuitos voltados para área de tecnologia, hacking, programação, montagem de computadores, reparação e afins upados no Google Drive disponíveis para uso público.
 
