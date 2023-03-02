@@ -1,6 +1,6 @@
 > 📲 MÉTODO DE REPOS OFICIAIS PARA INSTALAR TWEAKS 
 
-> 1️⃣ Lista de repos oficiais para tweaks;
+> 1️⃣ Todas as repos oficiais para tweaks;
 >
 > 2️⃣ NÃO instale repo crack (risco de brickar seu telefone);
 >
