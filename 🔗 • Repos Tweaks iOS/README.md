@@ -1,4 +1,4 @@
-> 📲 MÉTODO DE REPOS OFICIAIS PARA INSTALAR TWEAKS 
+> 🔗 MÉTODO DE REPOS OFICIAIS PARA INSTALAR TWEAKS 
 
 > 1️⃣ Todas as repos oficiais para tweaks;
 >
