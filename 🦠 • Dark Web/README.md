@@ -1,10 +1,10 @@
 > 🦠 MÉTODO DE ENTRAR NA DARK WEB
 
-> 1️⃣ Tenha atenção dobrada que você estará acessando sites com conteúdo underground na web;
+> 1️⃣ Tenha atenção redobrada que você estará acessando sites com conteúdo underground da web;
 >
 > 2️⃣ Certifique-se de estar usando um navegador propício para isso;
 >
-> 3️⃣ Verifique se está usando Firewall e VPN;
+> 3️⃣ Verifique se está usando uma Firewall e uma VPN;
 >
 > 4️⃣ Os sites geralmente estão 24h no ar;
 >
