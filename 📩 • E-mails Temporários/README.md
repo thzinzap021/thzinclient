@@ -1,4 +1,4 @@
-> 📩 MÉTODO DE USAR E-MAILS TEMPORÁRIOS
+> 📩 MÉTODO DE USAR E-MAILS DESCARTÁVEIS
 
 > 1️⃣ Use e-mails temporários e fique invisível na web;
 >
