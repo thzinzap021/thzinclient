@@ -29,6 +29,10 @@
 > ✈️ • BOTs Telegram
 >
 > 🦠 • Dark Web
+> 
+> 📩 • E-mails Descartáveis
+>
+> 💀 • Typosquatting
 
 > Caso tenha se interessado por algum conteúdo, é só clicar na PASTA que está vinculado com seu respectivo interesse.
 
