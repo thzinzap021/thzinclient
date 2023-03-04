@@ -1,16 +1,16 @@
 > 📩 MÉTODO DE USAR E-MAILS DESCARTÁVEIS
 
-> 1️⃣ Use e-mails temporários e fique invisível na web;
+> 1️⃣ Use e-mails descartáveis e fique invisível na web;
 >
 > 2️⃣ NÃO é necessário pagar nada uma vez que eles são descartáveis (usou, já era);
 >
 > 3️⃣ Perfeitamente funcionando, testados várias vezes com sucesso e sem erros;
 >
-> 4️⃣ Funciona em todos os sistemas possíveis;
+> 4️⃣ A plataforma não saberá que você está usando um e-mail descartável;
 >
 > 5️⃣ Método fácil e prático.
 
-> Não é surpresa que recebemos um tanto de spam e golpes na nossa caixa de entrada do e-mail. Já ouviu falar nos e-mails temporários? Caso você não saiba, é possível usá-los para receber mensagens e criar contas sem informar o seu e-mail pessoal.
+> Não é surpresa que recebemos um tanto de spam e golpes na nossa caixa de entrada do e-mail. Já ouviu falar nos e-mails descartáveis? Caso você não saiba, é possível usá-los para receber mensagens e criar contas sem informar o seu e-mail pessoal.
 >
 > Lista dos 4 melhores abaixo:
 
