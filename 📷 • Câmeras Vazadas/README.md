@@ -10,6 +10,9 @@
 >
 > 5️⃣ Faça por sua conta e risco.
 
+### Site com câmeras vazadas
+> https://www.insecam.org/
+
 ### Digite no Google usando uma dessas dorks:
 > inurl:ViewerFrame?Mode="
 >
