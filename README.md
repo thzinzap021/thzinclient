@@ -47,6 +47,8 @@
 > 🟢 • Spotify
 >
 > 🌀 • Todos os buscadores do mundo
+>
+> ⬛ • Termux
 
 > Caso tenha se interessado por algum conteúdo, é só clicar na PASTA que está vinculado com seu respectivo interesse.
 
