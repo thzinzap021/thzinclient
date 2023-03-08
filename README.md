@@ -52,7 +52,7 @@
 >
 > 📷 • Câmeras Vazadas
 >
-> 🛡️ • Uniformes Militares
+> 🔰 • Uniformes Militares
 >
 > 🕊️ • Trends do Twitter
 
