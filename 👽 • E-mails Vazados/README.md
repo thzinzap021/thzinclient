@@ -8,7 +8,7 @@
 >
 > 4️⃣ Funcionando perfeitamente, testado vários e-mails e os resultados foram um sucesso;
 >
-> 5️⃣ Método fácil e prático
+> 5️⃣ Método fácil e prático.
 
 ### Have I Been Pwned?
 > https://haveibeenpwned.com
