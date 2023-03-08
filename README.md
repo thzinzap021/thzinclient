@@ -1,6 +1,6 @@
 ### 👑 Seja bem-vindo (a) a TH Métodos!
 
-> Aqui temos uma diversidade de métodos, aplicativos e ensinamentos por um preço totalmente acessível a todos. Faz ideia de quanto isso vai custar? GRÁTIS! Isso mesmo que você leu. Variedade de conteúdos sem precisar pagar nada do seu bolso!
+> Aqui temos uma diversidade de métodos, aplicativos e ensinamentos por um preço totalmente acessível a todos. Faz ideia de quanto isso vai custar? GRÁTIS! Isso mesmo que você leu. Tudo aquilo que você procura mas não encontra. Variedade de conteúdos sem precisar pagar nada do seu bolso!
 
 > Confira os métodos clicando nas pastas
 
@@ -53,6 +53,8 @@
 > 📷 • Câmeras Vazadas
 >
 > 🛡️ • Uniformes Militares
+>
+> 🕊️ • Trends do Twitter
 
 > Caso tenha se interessado por algum conteúdo, é só clicar na PASTA que está vinculado com seu respectivo interesse.
 
