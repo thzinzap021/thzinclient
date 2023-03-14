@@ -57,6 +57,10 @@
 > 🕊️ • Trends do Twitter
 >
 > 🎮 • Desbanir Conta no Free Fire
+>
+> 🤡 • Travazap
+>
+> 💚 • WhatsApp
 
 > Caso tenha se interessado por algum conteúdo, é só clicar na PASTA que está vinculado com seu respectivo interesse.
 
